@@ -1,0 +1,5 @@
+Using logo font : Copperplate Gothic Bold, Size : 11.26
+
+using information font : Myriad Pro
+Name font size : 10.89
+others font size : 8.5
